@@ -1,0 +1,1 @@
+This is a chat-bot like chatGPT. we can search anythings to get the desired response. which can generate the response in 4 models types, first Text-to-Text, Text-to-Image, Text-to-Video, Text-to-Task.
